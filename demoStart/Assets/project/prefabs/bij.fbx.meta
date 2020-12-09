@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 396361c39146aab4cb5acd6a147f9122
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bloos
+    100004: bloos_2
+    100006: Capsule_1
+    100008: Capsule_3
+    100010: Capsule_4
+    100012: Capsule_5
+    100014: Capsule_6
+    100016: Capsule_7
+    100018: Capsule_8
+    100020: Cube
+    100022: Cube_2
+    100024: mond
+    100026: oog
+    100028: oog2
+    100030: Sphere
+    100032: Sphere_1
+    100034: Subdivision_Surface_1
+    100036: Subdivision_Surface_2
+    100038: Torus_1
+    100040: Torus_2
+    400000: //RootNode
+    400002: bloos
+    400004: bloos_2
+    400006: Capsule_1
+    400008: Capsule_3
+    400010: Capsule_4
+    400012: Capsule_5
+    400014: Capsule_6
+    400016: Capsule_7
+    400018: Capsule_8
+    400020: Cube
+    400022: Cube_2
+    400024: mond
+    400026: oog
+    400028: oog2
+    400030: Sphere
+    400032: Sphere_1
+    400034: Subdivision_Surface_1
+    400036: Subdivision_Surface_2
+    400038: Torus_1
+    400040: Torus_2
+    2100000: zwart van bij
+    2100002: geel van bij
+    2100004: zwart van bij 2
+    2100006: eyes
+    2100008: vleugels
+    2100010: bloos
+    2300000: bloos
+    2300002: bloos_2
+    2300004: Capsule_1
+    2300006: Capsule_3
+    2300008: Capsule_4
+    2300010: Capsule_5
+    2300012: Capsule_6
+    2300014: Capsule_7
+    2300016: Capsule_8
+    2300018: Cube
+    2300020: Cube_2
+    2300022: mond
+    2300024: oog
+    2300026: oog2
+    2300028: Sphere
+    2300030: Sphere_1
+    2300032: Torus_1
+    2300034: Torus_2
+    3300000: bloos
+    3300002: bloos_2
+    3300004: Capsule_1
+    3300006: Capsule_3
+    3300008: Capsule_4
+    3300010: Capsule_5
+    3300012: Capsule_6
+    3300014: Capsule_7
+    3300016: Capsule_8
+    3300018: Cube
+    3300020: Cube_2
+    3300022: mond
+    3300024: oog
+    3300026: oog2
+    3300028: Sphere
+    3300030: Sphere_1
+    3300032: Torus_1
+    3300034: Torus_2
+    4300000: Capsule_8
+    4300002: Capsule_7
+    4300004: Capsule_4
+    4300006: Capsule_3
+    4300008: Capsule_1
+    4300010: Sphere_1
+    4300012: Sphere
+    4300014: Cube
+    4300016: Cube_2
+    4300018: Capsule_6
+    4300020: Capsule_5
+    4300022: Torus_2
+    4300024: Torus_1
+    4300026: bloos
+    4300028: bloos_2
+    4300030: mond
+    4300032: oog2
+    4300034: oog
+    7400000: vleugels
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: vleugels
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 82
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

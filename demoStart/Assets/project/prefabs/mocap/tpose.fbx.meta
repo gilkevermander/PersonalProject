@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 62798962b8836604e8fff7616d98bbe7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: arm_r
+    100002: arm_r_1
+    100004: body
+    100006: Cube
+    100008: eye_l
+    100010: eye_l_1
+    100012: eye_l_1_2
+    100014: eye_l_2
+    100016: eye_l_2_2
+    100018: eye_l_2_3
+    100020: eye_r
+    100022: eye_r_2
+    100024: Figure
+    100026: gezicht
+    100028: gezicht_body
+    100030: haar
+    100032: hand_l
+    100034: hand_l_2
+    100036: hand_r
+    100038: hand_r_2
+    100040: hoet
+    100042: hoet_base
+    100044: hoettop
+    100046: leg_l
+    100048: leg_l_2
+    100050: leg_r
+    100052: leg_r_2
+    100054: mond
+    100056: mond_2
+    100058: mouw_l
+    100060: mouw_l_2
+    100062: mouw_r
+    100064: mouw_r_2
+    100066: neus
+    100068: neus_2
+    100070: oogholte
+    100072: oogholte_2
+    100074: tanden_1
+    100076: //RootNode
+    100078: voet_l
+    100080: voet_l_2
+    100082: voet_r
+    100084: voet_r_2
+    100086: wenkbrauw_l
+    100088: wenkbrauw_l_2
+    100090: wenkbrauw_r
+    100092: wenkbrauw_r_2
+    400000: arm_r
+    400002: arm_r_1
+    400004: body
+    400006: Cube
+    400008: eye_l
+    400010: eye_l_1
+    400012: eye_l_1_2
+    400014: eye_l_2
+    400016: eye_l_2_2
+    400018: eye_l_2_3
+    400020: eye_r
+    400022: eye_r_2
+    400024: Figure
+    400026: gezicht
+    400028: gezicht_body
+    400030: haar
+    400032: hand_l
+    400034: hand_l_2
+    400036: hand_r
+    400038: hand_r_2
+    400040: hoet
+    400042: hoet_base
+    400044: hoettop
+    400046: leg_l
+    400048: leg_l_2
+    400050: leg_r
+    400052: leg_r_2
+    400054: mond
+    400056: mond_2
+    400058: mouw_l
+    400060: mouw_l_2
+    400062: mouw_r
+    400064: mouw_r_2
+    400066: neus
+    400068: neus_2
+    400070: oogholte
+    400072: oogholte_2
+    400074: tanden_1
+    400076: //RootNode
+    400078: voet_l
+    400080: voet_l_2
+    400082: voet_r
+    400084: voet_r_2
+    400086: wenkbrauw_l
+    400088: wenkbrauw_l_2
+    400090: wenkbrauw_r
+    400092: wenkbrauw_r_2
+    2100000: Mat.8
+    2100002: extra wit (gele)
+    2100004: Mat.5
+    2100006: Mat.6
+    2100008: No Name
+    2100010: Mat.7
+    2100012: Mat.2
+    2100014: Mat
+    2100016: Mat.1
+    2300000: arm_r
+    2300002: arm_r_1
+    2300004: body
+    2300006: Cube
+    2300008: eye_l_1_2
+    2300010: eye_l_2_2
+    2300012: eye_l_2_3
+    2300014: eye_r_2
+    2300016: haar
+    2300018: hand_l_2
+    2300020: hand_r_2
+    2300022: hoet_base
+    2300024: hoettop
+    2300026: leg_l_2
+    2300028: leg_r_2
+    2300030: mond_2
+    2300032: mouw_l_2
+    2300034: mouw_r_2
+    2300036: neus_2
+    2300038: oogholte
+    2300040: oogholte_2
+    2300042: tanden_1
+    2300044: voet_l_2
+    2300046: voet_r_2
+    2300048: wenkbrauw_l_2
+    2300050: wenkbrauw_r_2
+    3300000: arm_r
+    3300002: arm_r_1
+    3300004: body
+    3300006: Cube
+    3300008: eye_l_1_2
+    3300010: eye_l_2_2
+    3300012: eye_l_2_3
+    3300014: eye_r_2
+    3300016: haar
+    3300018: hand_l_2
+    3300020: hand_r_2
+    3300022: hoet_base
+    3300024: hoettop
+    3300026: leg_l_2
+    3300028: leg_r_2
+    3300030: mond_2
+    3300032: mouw_l_2
+    3300034: mouw_r_2
+    3300036: neus_2
+    3300038: oogholte
+    3300040: oogholte_2
+    3300042: tanden_1
+    3300044: voet_l_2
+    3300046: voet_r_2
+    3300048: wenkbrauw_l_2
+    3300050: wenkbrauw_r_2
+    4300000: Cube
+    4300002: tanden_1
+    4300004: eye_l_2_2
+    4300006: eye_l_1_2
+    4300008: eye_l_2_3
+    4300010: haar
+    4300012: hoettop
+    4300014: hoet_base
+    4300016: eye_r_2
+    4300018: wenkbrauw_r_2
+    4300020: wenkbrauw_l_2
+    4300022: neus_2
+    4300024: body
+    4300026: mond_2
+    4300028: oogholte
+    4300030: oogholte_2
+    4300032: hand_l_2
+    4300034: arm_r_1
+    4300036: hand_r_2
+    4300038: arm_r
+    4300040: mouw_l_2
+    4300042: mouw_r_2
+    4300044: leg_l_2
+    4300046: leg_r_2
+    4300048: voet_r_2
+    4300050: voet_l_2
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'RightUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: gezicht_body
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hoettop
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: gezicht
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: oogholte
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mond
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand_r
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm_r
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm_r
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: tpose(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm_r_1
+      parentName: tpose(Clone)
+      position: {x: 0.35451525, y: 1.0320649, z: -0.16470884}
+      rotation: {x: 0.003498242, y: -0.0010733104, z: 0.9999933, w: 0.0000037547247}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube
+      parentName: tpose(Clone)
+      position: {x: 0.000023580764, y: 1.2737781, z: -0.037747778}
+      rotation: {x: 0, y: -0.0012140748, z: -0, w: 0.9999993}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eye_l
+      parentName: tpose(Clone)
+      position: {x: 0.08441387, y: 1.262597, z: -0.01997953}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eye_l_2_3
+      parentName: eye_l
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eye_l_1
+      parentName: tpose(Clone)
+      position: {x: 0.058580384, y: 1.2828434, z: -0.019440893}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eye_l_1_2
+      parentName: eye_l_1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eye_l_2
+      parentName: tpose(Clone)
+      position: {x: -0.072173506, y: 1.2828434, z: -0.019440893}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eye_l_2_2
+      parentName: eye_l_2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eye_r
+      parentName: tpose(Clone)
+      position: {x: -0.045360826, y: 1.262597, z: -0.01997953}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eye_r_2
+      parentName: eye_r
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figure
+      parentName: tpose(Clone)
+      position: {x: -1.2411137, y: 3.5527136e-17, z: -0.16025795}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: gezicht_body
+      parentName: tpose(Clone)
+      position: {x: -0, y: 3.5527136e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body
+      parentName: gezicht_body
+      position: {x: -0, y: -0.02159663, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: gezicht
+      parentName: gezicht_body
+      position: {x: -0.010791517, y: 1.2636462, z: -0.014293148}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm_r
+      parentName: gezicht
+      position: {x: -0.3425485, y: -0.23597276, z: -0.13930961}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mond
+      parentName: gezicht
+      position: {x: 0.011123044, y: -0.09821728, z: -0.056470275}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mond_2
+      parentName: mond
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: oogholte
+      parentName: gezicht
+      position: {x: 0.073657855, y: 0.011782899, z: -0.00025126297}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.41, z: 1.18}
+    - name: oogholte_2
+      parentName: gezicht
+      position: {x: -0.057446506, y: 0.011503477, z: -0.0006879582}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.41, z: 1.18}
+    - name: haar
+      parentName: tpose(Clone)
+      position: {x: -0, y: 1.2965927, z: -0.16696699}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hand_l
+      parentName: tpose(Clone)
+      position: {x: -0.018237244, y: 2.1312418, z: 0.017491292}
+      rotation: {x: 0.003498242, y: -0.0010733104, z: 0.9999933, w: 0.0000037547247}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hand_l_2
+      parentName: hand_l
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 2.1684043e-19, y: 1.83671e-40, z: 8.4703295e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hand_r
+      parentName: tpose(Clone)
+      position: {x: 0.026026117, y: -0.07188651, z: 0.023625024}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hand_r_2
+      parentName: hand_r
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoet
+      parentName: tpose(Clone)
+      position: {x: -0, y: 3.5527136e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoet_base
+      parentName: hoet
+      position: {x: -0.0015926565, y: 1.3770133, z: -0.16401783}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hoettop
+      parentName: hoet
+      position: {x: -0.004822463, y: 1.45283, z: -0.16871949}
+      rotation: {x: 0.000035588106, y: -0.37926048, z: 0.0017917786, w: 0.92528826}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg_l
+      parentName: tpose(Clone)
+      position: {x: 0.15542057, y: 0.012277996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg_l_2
+      parentName: leg_l
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg_r
+      parentName: tpose(Clone)
+      position: {x: -0.0006746974, y: 0.012277996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg_r_2
+      parentName: leg_r
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mouw_l
+      parentName: tpose(Clone)
+      position: {x: -0.015431396, y: -0.07188651, z: -0.34209213}
+      rotation: {x: 6.141201e-17, y: 0.9999957, z: -6.141201e-17, w: 0.0029385516}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mouw_l_2
+      parentName: mouw_l
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -7.1973445e-19, y: 8.814053e-35, z: -1.2246257e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mouw_r
+      parentName: tpose(Clone)
+      position: {x: 0.020131579, y: -0.07188651, z: 0.023625024}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mouw_r_2
+      parentName: mouw_r
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: neus
+      parentName: tpose(Clone)
+      position: {x: -4.440892e-18, y: 1.2261415, z: -0.033815518}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: neus_2
+      parentName: neus
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tanden_1
+      parentName: tpose(Clone)
+      position: {x: 0.004200141, y: 1.1874443, z: -0.024919339}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: voet_l
+      parentName: tpose(Clone)
+      position: {x: 0.077688456, y: 0.020322545, z: -0.1297343}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.84, y: 0.77, z: 1.05}
+    - name: voet_l_2
+      parentName: voet_l
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: voet_r
+      parentName: tpose(Clone)
+      position: {x: -0.077794895, y: 0.020322545, z: -0.1297343}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.84, y: 0.77, z: 1.05}
+    - name: voet_r_2
+      parentName: voet_r
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: wenkbrauw_l
+      parentName: tpose(Clone)
+      position: {x: 0.06083136, y: 1.3523138, z: -0.008759343}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: wenkbrauw_l_2
+      parentName: wenkbrauw_l
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: wenkbrauw_r
+      parentName: tpose(Clone)
+      position: {x: -0.066016026, y: 1.3523138, z: -0.016672526}
+      rotation: {x: 6.1306445e-17, y: 0.9999993, z: -6.1306445e-17, w: 0.0012109926}
+      scale: {x: 1, y: 1, z: 1}
+    - name: wenkbrauw_r_2
+      parentName: wenkbrauw_r
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -2.9660743e-19, y: 2.1684043e-19, z: -1.2246431e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
