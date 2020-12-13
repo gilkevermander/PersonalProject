@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 94297908729df4d42a1cf414b2070350
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FG April Trial
+  fontNames:
+  - FG April Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5fcb5e1f370a56d4d991df35d8ee01e5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
